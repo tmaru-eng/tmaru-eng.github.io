@@ -1,0 +1,24 @@
+#!/bin/sh
+# Pre-commit hook: refresh GitHub Activity / repo counts before commit.
+# - Requires GITHUB_TOKEN via env or .env (private repo数を含めるなら repo スコープ)
+# - Adds generated data files to the commit
+
+set -e
+
+if ! command -v node >/dev/null 2>&1; then
+  echo "[pre-commit] node が見つからないため contributions の取得をスキップします。" >&2
+  exit 0
+fi
+
+if [ ! -f ".env" ] && [ -z "${GITHUB_TOKEN:-}" ]; then
+  echo "[pre-commit] GITHUB_TOKEN が未設定 (.env か env) のため contributions の取得をスキップします。" >&2
+  exit 0
+fi
+
+echo "[pre-commit] Updating contributions snapshot via fetch-contrib.js..."
+node fetch-contrib.js
+
+# 生成物をコミット対象に追加
+git add data/contributions.json data/contributions.js
+
+echo "[pre-commit] Done."
