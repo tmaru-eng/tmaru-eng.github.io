@@ -1,5 +1,5 @@
 window.FEED_DATA = {
-  "fetchedAt": "2025-12-25T23:34:22.260Z",
+  "fetchedAt": "2025-12-25T23:46:34.558Z",
   "sources": [
     {
       "id": "qiita",
