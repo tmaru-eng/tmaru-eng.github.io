@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-30T03:08:45.155Z",
+  "fetchedAt": "2026-04-06T03:09:21.476Z",
   "sources": [
     {
       "id": "qiita",
@@ -32,6 +32,15 @@
     }
   ],
   "items": [
+    {
+      "id": "https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e",
+      "sourceId": "qiita",
+      "sourceLabel": "Qiita",
+      "sourceUrl": "https://qiita.com/tmaru-eng",
+      "title": "AIの情報を追うこと自体が非効率になっている気がする",
+      "url": "https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e",
+      "publishedAt": "2026-03-31T08:32:23.000Z"
+    },
     {
       "id": "https://qiita.com/tmaru-eng/items/6282944806e394c92d0d",
       "sourceId": "qiita",
@@ -413,6 +422,15 @@
   ],
   "latest": [
     {
+      "id": "https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e",
+      "sourceId": "qiita",
+      "sourceLabel": "Qiita",
+      "sourceUrl": "https://qiita.com/tmaru-eng",
+      "title": "AIの情報を追うこと自体が非効率になっている気がする",
+      "url": "https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e",
+      "publishedAt": "2026-03-31T08:32:23.000Z"
+    },
+    {
       "id": "https://qiita.com/tmaru-eng/items/6282944806e394c92d0d",
       "sourceId": "qiita",
       "sourceLabel": "Qiita",
@@ -510,15 +528,6 @@
       "title": "快適VPN環境を構築するべく、自宅に YAMAHA RTX1210 を設置して失敗した話",
       "url": "https://qiita.com/tmaru-eng/items/ceda76e26e7fb0f5429e",
       "publishedAt": "2025-12-21T22:05:16.000Z"
-    },
-    {
-      "id": "/blog/2025/12/20/jekyll-blog-setup/",
-      "sourceId": "blog",
-      "sourceLabel": "Blog",
-      "sourceUrl": "/blog",
-      "title": "Jekyllを導入してみた",
-      "url": "/blog/2025/12/20/jekyll-blog-setup/",
-      "publishedAt": "2025-12-20T00:00:00.000Z"
     }
   ]
 }
