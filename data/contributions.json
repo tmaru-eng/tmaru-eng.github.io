@@ -1,56 +1,17 @@
 {
-  "totalContributions": 2750,
-  "fetchedAt": "2026-05-04T03:11:41.739Z",
+  "totalContributions": 3029,
+  "fetchedAt": "2026-05-11T03:13:34.959Z",
   "source": "GitHub GraphQL viewer.contributionsCollection (private含む)",
   "mode": "viewer",
   "includesPrivateContributions": true,
   "repositories": {
     "public": 11,
-    "private": 74,
-    "total": 85
+    "private": 78,
+    "total": 89
   },
   "calendar": {
-    "totalContributions": 2750,
+    "totalContributions": 3029,
     "weeks": [
-      {
-        "contributionDays": [
-          {
-            "date": "2025-05-04",
-            "contributionCount": 0,
-            "color": "#ebedf0"
-          },
-          {
-            "date": "2025-05-05",
-            "contributionCount": 0,
-            "color": "#ebedf0"
-          },
-          {
-            "date": "2025-05-06",
-            "contributionCount": 0,
-            "color": "#ebedf0"
-          },
-          {
-            "date": "2025-05-07",
-            "contributionCount": 0,
-            "color": "#ebedf0"
-          },
-          {
-            "date": "2025-05-08",
-            "contributionCount": 1,
-            "color": "#9be9a8"
-          },
-          {
-            "date": "2025-05-09",
-            "contributionCount": 1,
-            "color": "#9be9a8"
-          },
-          {
-            "date": "2025-05-10",
-            "contributionCount": 0,
-            "color": "#ebedf0"
-          }
-        ]
-      },
       {
         "contributionDays": [
           {
@@ -2049,8 +2010,47 @@
           },
           {
             "date": "2026-05-04",
+            "contributionCount": 5,
+            "color": "#9be9a8"
+          },
+          {
+            "date": "2026-05-05",
+            "contributionCount": 25,
+            "color": "#40c463"
+          },
+          {
+            "date": "2026-05-06",
             "contributionCount": 0,
             "color": "#ebedf0"
+          },
+          {
+            "date": "2026-05-07",
+            "contributionCount": 0,
+            "color": "#ebedf0"
+          },
+          {
+            "date": "2026-05-08",
+            "contributionCount": 3,
+            "color": "#9be9a8"
+          },
+          {
+            "date": "2026-05-09",
+            "contributionCount": 115,
+            "color": "#216e39"
+          }
+        ]
+      },
+      {
+        "contributionDays": [
+          {
+            "date": "2026-05-10",
+            "contributionCount": 55,
+            "color": "#216e39"
+          },
+          {
+            "date": "2026-05-11",
+            "contributionCount": 78,
+            "color": "#216e39"
           }
         ]
       }
