@@ -1,5 +1,5 @@
 window.FEED_DATA = {
-  "fetchedAt": "2026-06-01T03:15:32.213Z",
+  "fetchedAt": "2026-06-08T03:15:28.949Z",
   "sources": [
     {
       "id": "qiita",
@@ -32,6 +32,15 @@ window.FEED_DATA = {
     }
   ],
   "items": [
+    {
+      "id": "https://qiita.com/tmaru-eng/items/0e3c7183e22921d74d0c",
+      "sourceId": "qiita",
+      "sourceLabel": "Qiita",
+      "sourceUrl": "https://qiita.com/tmaru-eng",
+      "title": "Codexのリミットを、ChatGPTに頼ったら案外なんとかなった",
+      "url": "https://qiita.com/tmaru-eng/items/0e3c7183e22921d74d0c",
+      "publishedAt": "2026-06-02T09:24:57.000Z"
+    },
     {
       "id": "https://qiita.com/tmaru-eng/items/14e98193e3f367f55941",
       "sourceId": "qiita",
@@ -431,6 +440,15 @@ window.FEED_DATA = {
   ],
   "latest": [
     {
+      "id": "https://qiita.com/tmaru-eng/items/0e3c7183e22921d74d0c",
+      "sourceId": "qiita",
+      "sourceLabel": "Qiita",
+      "sourceUrl": "https://qiita.com/tmaru-eng",
+      "title": "Codexのリミットを、ChatGPTに頼ったら案外なんとかなった",
+      "url": "https://qiita.com/tmaru-eng/items/0e3c7183e22921d74d0c",
+      "publishedAt": "2026-06-02T09:24:57.000Z"
+    },
+    {
       "id": "https://qiita.com/tmaru-eng/items/14e98193e3f367f55941",
       "sourceId": "qiita",
       "sourceLabel": "Qiita",
@@ -528,15 +546,6 @@ window.FEED_DATA = {
       "title": "「暗号技術のすべて」を積んでる話",
       "url": "https://qiita.com/tmaru-eng/items/336014c469bf9e412a88",
       "publishedAt": "2025-12-22T22:12:09.000Z"
-    },
-    {
-      "id": "https://qiita.com/tmaru-eng/items/c285c3fb01fa1749c61f",
-      "sourceId": "qiita",
-      "sourceLabel": "Qiita",
-      "sourceUrl": "https://qiita.com/tmaru-eng",
-      "title": "「リスキリング」を積んでる話",
-      "url": "https://qiita.com/tmaru-eng/items/c285c3fb01fa1749c61f",
-      "publishedAt": "2025-12-21T22:11:45.000Z"
     }
   ]
 };
