@@ -1,5 +1,5 @@
 window.FEED_DATA = {
-  "fetchedAt": "2026-09-07T07:03:08.976Z",
+  "fetchedAt": "2026-09-14T07:36:51.419Z",
   "sources": [
     {
       "id": "qiita",
@@ -32,6 +32,15 @@ window.FEED_DATA = {
     }
   ],
   "items": [
+    {
+      "id": "https://qiita.com/tmaru-eng/items/325010027895ffdab6ab",
+      "sourceId": "qiita",
+      "sourceLabel": "Qiita",
+      "sourceUrl": "https://qiita.com/tmaru-eng",
+      "title": "Skill Builderを利用したAWS認定更新を試してみた",
+      "url": "https://qiita.com/tmaru-eng/items/325010027895ffdab6ab",
+      "publishedAt": "2026-09-12T00:36:46.000Z"
+    },
     {
       "id": "https://qiita.com/tmaru-eng/items/0e3c7183e22921d74d0c",
       "sourceId": "qiita",
@@ -440,6 +449,15 @@ window.FEED_DATA = {
   ],
   "latest": [
     {
+      "id": "https://qiita.com/tmaru-eng/items/325010027895ffdab6ab",
+      "sourceId": "qiita",
+      "sourceLabel": "Qiita",
+      "sourceUrl": "https://qiita.com/tmaru-eng",
+      "title": "Skill Builderを利用したAWS認定更新を試してみた",
+      "url": "https://qiita.com/tmaru-eng/items/325010027895ffdab6ab",
+      "publishedAt": "2026-09-12T00:36:46.000Z"
+    },
+    {
       "id": "https://qiita.com/tmaru-eng/items/0e3c7183e22921d74d0c",
       "sourceId": "qiita",
       "sourceLabel": "Qiita",
@@ -537,15 +555,6 @@ window.FEED_DATA = {
       "title": "ChatGPT で資格学習を高速化するための実践プロンプト",
       "url": "https://qiita.com/tmaru-eng/items/5c0a6bbd12708f520633",
       "publishedAt": "2025-12-22T22:43:26.000Z"
-    },
-    {
-      "id": "https://qiita.com/tmaru-eng/items/336014c469bf9e412a88",
-      "sourceId": "qiita",
-      "sourceLabel": "Qiita",
-      "sourceUrl": "https://qiita.com/tmaru-eng",
-      "title": "「暗号技術のすべて」を積んでる話",
-      "url": "https://qiita.com/tmaru-eng/items/336014c469bf9e412a88",
-      "publishedAt": "2025-12-22T22:12:09.000Z"
     }
   ]
 };
