@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T07:36:51.419Z",
+  "fetchedAt": "2026-09-21T07:40:47.832Z",
   "sources": [
     {
       "id": "qiita",
@@ -32,6 +32,15 @@
     }
   ],
   "items": [
+    {
+      "id": "https://techblog.ap-com.co.jp/entry/2026/09/18/125500",
+      "sourceId": "hatena",
+      "sourceLabel": "はてなブログ",
+      "sourceUrl": "https://techblog.ap-com.co.jp/archive/author/ta__maru",
+      "title": "【Oracle認定資格】OCI AI Foundations Associate(1Z0-1122-26-JPN)に合格しました。",
+      "url": "https://techblog.ap-com.co.jp/entry/2026/09/18/125500",
+      "publishedAt": "2026-09-18T03:55:00.000Z"
+    },
     {
       "id": "https://qiita.com/tmaru-eng/items/325010027895ffdab6ab",
       "sourceId": "qiita",
@@ -449,6 +458,15 @@
   ],
   "latest": [
     {
+      "id": "https://techblog.ap-com.co.jp/entry/2026/09/18/125500",
+      "sourceId": "hatena",
+      "sourceLabel": "はてなブログ",
+      "sourceUrl": "https://techblog.ap-com.co.jp/archive/author/ta__maru",
+      "title": "【Oracle認定資格】OCI AI Foundations Associate(1Z0-1122-26-JPN)に合格しました。",
+      "url": "https://techblog.ap-com.co.jp/entry/2026/09/18/125500",
+      "publishedAt": "2026-09-18T03:55:00.000Z"
+    },
+    {
       "id": "https://qiita.com/tmaru-eng/items/325010027895ffdab6ab",
       "sourceId": "qiita",
       "sourceLabel": "Qiita",
@@ -546,15 +564,6 @@
       "title": "年末なので雑にトラックボールを語ろう！",
       "url": "https://note.com/tmaru_eng/n/n6b3cf8e3f382",
       "publishedAt": "2025-12-23T15:30:30.000Z"
-    },
-    {
-      "id": "https://qiita.com/tmaru-eng/items/5c0a6bbd12708f520633",
-      "sourceId": "qiita",
-      "sourceLabel": "Qiita",
-      "sourceUrl": "https://qiita.com/tmaru-eng",
-      "title": "ChatGPT で資格学習を高速化するための実践プロンプト",
-      "url": "https://qiita.com/tmaru-eng/items/5c0a6bbd12708f520633",
-      "publishedAt": "2025-12-22T22:43:26.000Z"
     }
   ]
 }
